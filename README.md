@@ -55,6 +55,19 @@ To go about the functioning of the project, I have divided the work into 6 main 
 The LSTM model built shows 98.2% accuracy for the above given prediction of stock closing prices.
 
 ---
+## Output
+
+![image](https://github.com/user-attachments/assets/a95b83dc-30e3-4b18-96d4-d56d2418466c)
+
+![image](https://github.com/user-attachments/assets/e4453c33-3485-4a62-875a-55142fe3b3b8)
+
+![image](https://github.com/user-attachments/assets/4a5fcdb8-4d50-4a6c-bb66-a3b1d77559c6)
+
+![image](https://github.com/user-attachments/assets/8830d0f1-2e4b-438b-af44-75546c9305a2)
+
+![image](https://github.com/user-attachments/assets/55eb52b9-5068-497c-8f09-e8978614c846)
+
+
 
 ## 🤝 Contributions
 
